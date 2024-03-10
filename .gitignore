@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Creational Patterns/Singleton/bin/Debug/net8.0
+/Creational Patterns/Singleton/obj
